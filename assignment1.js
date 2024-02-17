@@ -8,7 +8,7 @@
 
 // Data Types
 
-    var isIsLand = true;
+    // var isIsLand = true;
     // var language;
 
     // console.log(typeof isIsLand);

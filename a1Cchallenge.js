@@ -2,14 +2,14 @@
  
 // Coding Challenge #1
 
-var massMark = 78;
-var heightMark = 1.67;
+// var massMark = 78;
+// var heightMark = 1.67;
 
-var massJohn = 85;
-var heightJohn = 1.55;
+// var massJohn = 85;
+// var heightJohn = 1.55;
 
-var BMIMark = massMark / (heightMark * heightMark);
-var BMIJohn = massJohn / (heightJohn * heightJohn);
+// var BMIMark = massMark / (heightMark * heightMark);
+// var BMIJohn = massJohn / (heightJohn * heightJohn);
 
 // console.log(BMIMark, BMIJohn);
   
@@ -38,10 +38,42 @@ var BMIJohn = massJohn / (heightJohn * heightJohn);
 
 // Coding Challenge #3
 
-    var Dolphins = [96, 108, 89];
-    var scoreDolphins = (Dolphins[0]) / 3;
+    // var dolphin = [97, 112, 101];
+    // var koala = [96, 108, 89];
+    // var sum = 0;
+    // for(let i of dolphin){
+    //     dolphinSum = (sum + i) / dolphin.length;
+    // }
+    // for(let i of koala){
+    //     koalaSum = (sum + i) / koala.length;
+    // }
+    //                 // for(let j =0; j < dolphins.length; j++){
+    //                 //     sum += dolphins[j];
+    //                 // }
+    // console.log(dolphinSum);
+    // console.log(koalaSum);
 
-    console.log(Dolphins);
+    // if(dolphinSum > koalaSum){
+    //     console.log("Dolphin win the trophy");
+    // }
+    // else if(dolphinSum < koalaSum){
+    //     console.log("Koalas win the trophy");
+    // }
+    // else{
+    //     console.log("Both win the trophy")
+    // }
+
+
+
+
+// Coding Challenge #4
+
+    // var bill = 375;
+    // var tip1 = bill + (0.15 * bill);
+    // var tip2 = bill + (0.20 * bill);
+    // var tip = 50 <= bill && bill <= 300 ? `The bill was ${bill}, the tip was ${0.15 * bill}, and the total value is ${tip1}` :
+    //                  `The bill was ${bill}, the tip was ${0.20 * bill}, and the total value is ${tip2}`
+    // console.log(tip);
 
 
 
